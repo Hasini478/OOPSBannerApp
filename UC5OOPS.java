@@ -1,5 +1,5 @@
 /* UC5 - Array init */
-public class OOPSBannerApp {
+public class UC5OOPS {
 
     public static void main(String[] args) {
 
